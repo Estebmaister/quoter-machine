@@ -15,17 +15,13 @@
   }
 }
 
-.App-header {
+.App-footer {
   background-color: #808080;
   height: 8vh;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-}
-
-.App-link {
-  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
