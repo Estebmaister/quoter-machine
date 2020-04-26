@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61650858d060a4d9d66e170983c841d8",
+    "revision": "7b012c406e8d29356a0d7521aa3cde97",
     "url": "/quoter-machine/index.html"
   },
   {
-    "revision": "449bf040469e3bb5613c",
-    "url": "/quoter-machine/static/css/main.eee9f68d.chunk.css"
+    "revision": "f20192dc8af055b457e3",
+    "url": "/quoter-machine/static/css/main.140ac7bd.chunk.css"
   },
   {
     "revision": "e59539ac80046a68a693",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quoter-machine/static/js/2.5b9f9277.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "449bf040469e3bb5613c",
-    "url": "/quoter-machine/static/js/main.129398fe.chunk.js"
+    "revision": "f20192dc8af055b457e3",
+    "url": "/quoter-machine/static/js/main.49dafb89.chunk.js"
   },
   {
     "revision": "f5f37a2abda7d8f4d5a3",
