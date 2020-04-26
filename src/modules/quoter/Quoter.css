@@ -11,7 +11,7 @@ body {
 }
 
 .app {
-  height: 80vh;
+  min-height: 80vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -113,4 +113,10 @@ button:active {
   top: 4px;
   height: 18px;
   width: 18px;
+}
+
+@media (max-width: 600px) {
+  .container {
+    width: 90%;
+  }
 }
