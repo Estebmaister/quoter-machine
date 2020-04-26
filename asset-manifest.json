@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/quoter-machine/static/css/main.8b77e14d.chunk.css",
-    "main.js": "/quoter-machine/static/js/main.1636f79e.chunk.js",
-    "main.js.map": "/quoter-machine/static/js/main.1636f79e.chunk.js.map",
+    "main.css": "/quoter-machine/static/css/main.eee9f68d.chunk.css",
+    "main.js": "/quoter-machine/static/js/main.129398fe.chunk.js",
+    "main.js.map": "/quoter-machine/static/js/main.129398fe.chunk.js.map",
     "runtime-main.js": "/quoter-machine/static/js/runtime-main.9489f9f4.js",
     "runtime-main.js.map": "/quoter-machine/static/js/runtime-main.9489f9f4.js.map",
     "static/js/2.5b9f9277.chunk.js": "/quoter-machine/static/js/2.5b9f9277.chunk.js",
     "static/js/2.5b9f9277.chunk.js.map": "/quoter-machine/static/js/2.5b9f9277.chunk.js.map",
     "index.html": "/quoter-machine/index.html",
-    "precache-manifest.3ef4912ba760c15cad3fbd6f879a1d04.js": "/quoter-machine/precache-manifest.3ef4912ba760c15cad3fbd6f879a1d04.js",
+    "precache-manifest.54378e4a821965797f793fe16649ca38.js": "/quoter-machine/precache-manifest.54378e4a821965797f793fe16649ca38.js",
     "service-worker.js": "/quoter-machine/service-worker.js",
-    "static/css/main.8b77e14d.chunk.css.map": "/quoter-machine/static/css/main.8b77e14d.chunk.css.map",
+    "static/css/main.eee9f68d.chunk.css.map": "/quoter-machine/static/css/main.eee9f68d.chunk.css.map",
     "static/js/2.5b9f9277.chunk.js.LICENSE.txt": "/quoter-machine/static/js/2.5b9f9277.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/quoter-machine/static/media/logo.cd2fd5e7.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9489f9f4.js",
     "static/js/2.5b9f9277.chunk.js",
-    "static/css/main.8b77e14d.chunk.css",
-    "static/js/main.1636f79e.chunk.js"
+    "static/css/main.eee9f68d.chunk.css",
+    "static/js/main.129398fe.chunk.js"
   ]
 }
