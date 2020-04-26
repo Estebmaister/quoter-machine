@@ -21,7 +21,11 @@ export default class Quoter extends React.Component {
         <div className="container" id="quote-box">
           <h1>Movies Quote Machine</h1>
           <div className="text">
-            <p id="text">{this.state.quotes[this.state.currentQuote].phrase}</p>
+            <p id="text">
+              <i className="quoter-left"></i>
+              {this.state.quotes[this.state.currentQuote].phrase}
+              {/*<i className="quoter-right"></i>*/}
+            </p>
           </div>
           <p id="author">
             - {this.state.quotes[this.state.currentQuote].movie}
@@ -46,7 +50,7 @@ export default class Quoter extends React.Component {
               rel="noopener noreferrer"
             >
               <i className="tweet"></i>
-              <span className="label">tweet</span>
+              <span className="label">TWEET</span>
             </a>
           </div>
         </div>
