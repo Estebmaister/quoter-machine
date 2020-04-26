@@ -1,0 +1,199 @@
+[
+  { "phrase": "Just keep swimming.", "movie": "Finding Nemo", "year": 2003 },
+  {
+    "phrase": "I wish I knew how to quit you.",
+    "movie": "Brokeback Mountain",
+    "year": 2005
+  },
+  {
+    "phrase": "What's the most you ever lost on a coin toss?",
+    "movie": "No Country for Old Men",
+    "year": 2007
+  },
+  {
+    "phrase": "I drink your milkshake.",
+    "movie": "There Will Be Blood",
+    "year": 2007
+  },
+  { "phrase": "Why so serious?", "movie": "The Dark Knight", "year": 2008 },
+  {
+    "phrase": "A million dollars isn't cool. You know what's cool? A billion dollars.",
+    "movie": "The Social Network",
+    "year": 2010
+  },
+  {
+    "phrase": "Frankly, my dear, I don't give a damn.",
+    "movie": "Gone With the Wind",
+    "year": 1939
+  },
+  {
+    "phrase": "Toto, I've got a feeling we're not in Kansas anymore.",
+    "movie": "The Wizard of Oz",
+    "year": 1939
+  },
+  {
+    "phrase": "Here's looking at you, kid.",
+    "movie": "Casablanca",
+    "year": 1942
+  },
+  {
+    "phrase": "Go ahead, make my day.",
+    "movie": "Sudden Impact",
+    "year": 1983
+  },
+  {
+    "phrase": "May the Force be with you.",
+    "movie": "Star Wars",
+    "year": 1977
+  },
+  {
+    "phrase": "I love the smell of napalm in the morning.",
+    "movie": "Apocalypse Now",
+    "year": 1979
+  },
+  {
+    "phrase": "Bond. James Bond.",
+    "movie": "Dr. N0",
+    "year": 1962
+  },
+  {
+    "phrase": "I'm going to make him an offer he can't refuse.",
+    "movie": "The Godfather",
+    "year": 1972
+  },
+  {
+    "phrase": "Hey! I'm walking here! I'm walking here!",
+    "movie": "Midnight Cowboy",
+    "year": 1969
+  },
+  {
+    "phrase": "I'll be back.",
+    "movie": "The Terminator",
+    "year": 1984
+  },
+  {
+    "phrase": "We'll always have Paris.",
+    "movie": "Casablanca",
+    "year": 1942
+  },
+  {
+    "phrase": "I see dead people.",
+    "movie": "The Sixth Sense",
+    "year": 1999
+  },
+  {
+    "phrase": "Oh, Jerry, don't let's ask for the moon. We have the stars.",
+    "movie": "Now, Voyager",
+    "year": 1942
+  },
+  {
+    "phrase": "Well, nobody's perfect.",
+    "movie": "Some Like It Hot",
+    "year": 1959
+  },
+  {
+    "phrase": "It's alive! It's alive!",
+    "movie": "Frankenstein",
+    "year": 1931
+  },
+  {
+    "phrase": "Houston, we have a problem.",
+    "movie": "Apollo 13",
+    "year": 1995
+  },
+  {
+    "phrase": "Greed, for lack of a better word, is good.",
+    "movie": "Wall Street",
+    "year": 1987
+  },
+  {
+    "phrase": "Keep your friends close, but your enemies closer.",
+    "movie": "The Godfather Part II",
+    "year": 1974
+  },
+  {
+    "phrase": "As God is my witness, I'll never be hungry again.",
+    "movie": "Gone With the Wind",
+    "year": 1939
+  },
+  {
+    "phrase": "Well, here's another nice mess you've gotten me into!",
+    "movie": "Sons of the Desert",
+    "year": 1933
+  },
+  {
+    "phrase": "Say \"hello\" to my little friend!",
+    "movie": "Scarface",
+    "year": 1983
+  },
+  {
+    "phrase": "Gentlemen, you can't fight in here! This is the War Room!",
+    "movie": "Dr. Strangelove",
+    "year": 1964
+  },
+  {
+    "phrase": "Elementary, my dear Watson.",
+    "movie": "The Adventures of Sherlock Holmes",
+    "year": 1929
+  },
+  {
+    "phrase": "They're here!",
+    "movie": "Poltergeist",
+    "year": 1982
+  },
+  {
+    "phrase": "Hasta la vista, baby",
+    "movie": "Terminator 2: Judgment Day",
+    "year": 1991
+  },
+  {
+    "phrase": "Open the pod bay doors, HAL.",
+    "movie": "2001: A Space Odyssey",
+    "year": 1968
+  },
+  {
+    "phrase": "Yo, Adrian!",
+    "movie": "Rocky",
+    "year": 1976
+  },
+  {
+    "phrase": "Hello, gorgeous.",
+    "movie": "Funny Girl",
+    "year": 1968
+  },
+  {
+    "phrase": "Listen to them. Children of the night. What music they make.",
+    "movie": "Dracula",
+    "year": 1931
+  },
+  {
+    "phrase": "My precious.",
+    "movie": "The Lord of the Rings: Two Towers",
+    "year": 2002
+  },
+  {
+    "phrase": "A martini. Shaken, not stirred.",
+    "movie": "Goldfinger",
+    "year": 1964
+  },
+  {
+    "phrase": "I feel the need - the need for speed!",
+    "movie": "Top Gun",
+    "year": 1986
+  },
+  {
+    "phrase": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+    "movie": "Dead Poets Society",
+    "year": 1989
+  },
+  {
+    "phrase": "You can't handle the truth!",
+    "movie": "A Few Good Men",
+    "year": 1992
+  },
+  {
+    "phrase": "I'm king of the world!",
+    "movie": "Titanic",
+    "year": 1997
+  }
+]

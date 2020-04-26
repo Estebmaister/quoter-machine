@@ -1,24 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Quoter from "./modules/quoter/Quoter.js";
 
 function App() {
   return (
     <div className="App">
+      <Quoter />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
+      <div className="credits">
+        <p>
+          <a
+            href="https://teban.co.ve"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            © Estebmaister 2020
+          </a>
+        </p>
+      </div>
     </div>
   );
 }
