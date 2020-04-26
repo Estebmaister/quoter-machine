@@ -41,16 +41,16 @@ export default class Quoter extends React.Component {
             <a
               className="btn"
               id="tweet-quote"
-              href={`https://twitter.com/intent/tweet?text=${
+              href={`https://twitter.com/intent/tweet?text=%22${
                 this.state.quotes[this.state.currentQuote].phrase
-              }%20-${
+              }%22%20-${
                 this.state.quotes[this.state.currentQuote].movie
               }&via=estebmaister&hashtags=movieFan`}
               target="_blank"
               rel="noopener noreferrer"
             >
               <i className="tweet"></i>
-              <span className="label">TWEET</span>
+              <span className="label">Tweet</span>
             </a>
           </div>
         </div>
