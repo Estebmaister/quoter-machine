@@ -1,5 +1,7 @@
 # Quoter Machine
 
+![GitHub package.json version](https://img.shields.io/github/package-json/v/estebmaister/quoter-machine?color=blue&style=plastic&logo=github) ![License](https://img.shields.io/github/license/estebmaister/quoter-machine) [ ![Twitter Follow](https://img.shields.io/twitter/follow/estebmaister?label=Follow&style=social) ](https://twitter.com/estebmaister)
+
 This project born from a task in [FCC](https://www.freecodecamp.org/) as a requisite for the frameworks certification, is created from the create-react-app template and edited for the FCC exigencies.
 
 ## Available Scripts
